@@ -13,6 +13,12 @@ namespace ConsoleApp1
             string name = "Tirius";
             Console.WriteLine(name);
 
+            name = "Vlad";
+            Console.WriteLine(name);
+
+            name = "Troyan";
+            Console.WriteLine(name);
+
             Console.Read();
           }
     }
