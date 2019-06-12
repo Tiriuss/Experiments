@@ -11,6 +11,9 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string name = "Tirius";
+            Console.WriteLine(name);
+
+            Console.Read();
           }
     }
 }
